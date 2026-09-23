@@ -5,6 +5,11 @@ Statyczny mockup (HTML/CSS, bez zależności) strony dla gabinetu "Zabiegowo i T
 ## Pliki
 - `index.html` — strona główna
 - `zabiegi.html` — opis zabiegów
+- `infuzja-tlenowa.html` — szczegóły infuzji tlenowej
+- `oczyszczanie-twarzy.html` — szczegóły oczyszczania twarzy
+- `modelowanie-sylwetki.html` — szczegóły modelowania sylwetki
+- `pielegnacja-indywidualna.html` — szczegóły pielęgnacji indywidualnej
+- `blog.html` — artykuły i porady pielęgnacyjne
 - `cennik.html` — cennik (ceny to placeholdery `[CENA]` — do uzupełnienia)
 - `o-nas.html` — o nas
 - `kontakt.html` — kontakt / godziny
